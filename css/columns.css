@@ -1,7 +1,7 @@
 ul {
     list-style: none;
     width: 75vw;
-
+    display: flex;
     /* add solution here */
 }
 
@@ -9,7 +9,7 @@ li {
     padding: 10px;
     margin: 10px;
     background-color: rgb(245, 173, 41);
-
+    flex: 0 1 20vw;
     /* add solution here.. */
 
 }
